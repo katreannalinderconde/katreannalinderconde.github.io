@@ -180,37 +180,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x1500.jpg",
+                "caption": "MDCPS Logo Entry",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x1500.jpg",
+                "caption": "Queen Album Design",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x1500.jpg",
+                "caption": "Hansel and Gretel Perspective Image",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x1500.jpg",
+                "caption": "Avengers Logo Redraw",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -250,7 +253,7 @@
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
@@ -1003,18 +1006,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content2-t",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#9d74d4"
           },
-          "text": "<blockquote>\"Laughter timeless, imagination has no age, and dreams are forever.\"</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Walt Disney</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "text-align": "center"
-            }
-          }
+          "text": "<blockquote>\"Laughter timeless, imagination has no age, and dreams are forever.\"</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Walt Disney</blockquote>"
         },
         {
           "_styles": {
@@ -1270,6 +1273,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-x",
           "_params": {
             "labelsColor": "#232323",
@@ -1315,12 +1323,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
