@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction",
+    "currentPage": "References",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -749,12 +749,12 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.2,
-            "overlayColor": "#222",
+            "overlayColor": "#222222",
             "showTitle": true,
             "showSubtitle": false
           },
