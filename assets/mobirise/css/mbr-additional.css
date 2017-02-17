@@ -413,18 +413,8 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#msg-box6-p .mbr-section-title,
-#msg-box6-p .lead p {
-  color: #fff;
-}
-#features4-q .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-q .iconbox {
-  background-color: #9d74d4;
-  border-color: #9d74d4;
-}
-#content2-t BLOCKQUOTE {
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
   text-align: center;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -442,11 +432,11 @@ h6,
   font-family: 'Indie Flower', cursive;
 }
 #menu-0 .link {
-  font-size: 1.15rem;
+  font-size: 1.45rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.570rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -730,11 +720,11 @@ h6,
   font-family: 'Indie Flower', cursive;
 }
 #menu-y .link {
-  font-size: 1.15rem;
+  font-size: 1.45rem;
 }
 #menu-y .dropdown-item,
 #menu-y .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.570rem;
 }
 #menu-y .link:hover,
 #menu-y .dropdown-item:hover,
@@ -783,10 +773,17 @@ h6,
 #menu-y .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box6-18 .mbr-section-title,
+#msg-box6-18 .lead p {
+  color: #fff;
+}
 #features4-10 .card-subtitle {
   color: #bcbcbc;
 }
 #features4-10 .iconbox {
   background-color: #9d74d4;
   border-color: #9d74d4;
+}
+#content2-19 BLOCKQUOTE {
+  text-align: center;
 }
