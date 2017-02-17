@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "Index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -278,7 +278,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Introduction",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
