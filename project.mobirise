@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -1120,15 +1120,15 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-12",
+          "_anchor": "content7-1m",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text1": "Throughout my life, I was given numerous chances to explore the world. Disney World has been a frequent location, but Paris, France; New York; North Carolina; Georgia; Los Angeles; and Caracas, Venzuela have been well enjoyed destinations.&nbsp;",
-          "text2": "",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "Throughout my life, I was given numerous chances to explore the world. Disney World has been a frequent location, but Paris, France; New York; North Carolina; Georgia; Los Angeles; and Caracas, Venzuela have been well enjoyed destinations.&nbsp;<p><br></p>",
+          "text2": "Design has been a big part of my life for a long time, and when applying for schools, I found the Tech Production program at Miami Arts Studio. The program has allowed me to learn new ways of expressing myself and creating art that everyone can enjoy.&nbsp;",
+          "text3": "I've never been the kind of person who has the same goals for too long, so my career choices are always changing. I do know I want to go into design and maybe even acting. Photography is something I enjoy and want to continue later in life as well, and working with animals is also something I'd like to do eventually."
         },
         {
           "_styles": {
@@ -1244,8 +1244,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -1260,8 +1260,8 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButton": false
           },
           "title": "ARTICLE HEADER",
@@ -1303,7 +1303,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x150016.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x15000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1313,7 +1313,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x150017.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x15001.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1323,7 +1323,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x150018.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x15002.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1333,7 +1333,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-4-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x150019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x15003.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
