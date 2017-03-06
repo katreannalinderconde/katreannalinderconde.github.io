@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1303,7 +1303,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x15000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x15008.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1313,7 +1313,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x15001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x15009.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1323,7 +1323,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x15002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x150010.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1333,7 +1333,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-4-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x15003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x150011.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1430,7 +1430,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-1-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/rose-signature-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1466,9 +1466,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/rose-signature-128x128.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
