@@ -1303,7 +1303,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x15008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-1-2000x150012.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1313,7 +1313,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x15009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-2-2000x150013.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1323,7 +1323,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x150010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-3-2000x150014.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1333,7 +1333,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-4-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x150011.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-4-2000x150015.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
