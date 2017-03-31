@@ -483,9 +483,11 @@ h6,
 }
 #header5-a .mbr-section-title {
   color: #000;
+  text-align: left;
 }
 #header5-a .mbr-section-lead {
   color: #9c9a9a;
+  text-align: left;
 }
 
 #menu-e .hide-buttons .nav-btn {
